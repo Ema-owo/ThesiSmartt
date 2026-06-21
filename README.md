@@ -20,7 +20,7 @@
 **Periodo:** 202610
 
 ---
-
+## Informacion del Projecto
 Aplicación web diseñada para acompañar a estudiantes universitarios en todo el proceso de elaboración de su tesis cuantitativa. Mediante plantillas con formatos oficiales, orientación metodológica contextualizada y herramientas de apoyo estadístico, ThesiSmart reduce errores frecuentes, tiempos de entrega y niveles de estrés durante el desarrollo de la investigación.
 
 ---
