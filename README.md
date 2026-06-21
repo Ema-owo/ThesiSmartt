@@ -1,5 +1,30 @@
 # 📚 Proyecto Tesis — Estructura Base
 
+# ThesiSmart
+
+Aplicación web diseñada para acompañar a estudiantes universitarios en todo el proceso de elaboración de su tesis cuantitativa. Mediante plantillas con formatos oficiales, orientación metodológica contextualizada y herramientas de apoyo estadístico, ThesiSmart reduce errores frecuentes, tiempos de entrega y niveles de estrés durante el desarrollo de la investigación.
+
+---
+
+## 👥 Integrantes
+
+| Apellidos y nombres              | Código       |
+|----------------------------------|--------------|
+| Antón Tasayco, Ruth Nayeli       | u20231c165   |
+| Bardales Fernandez, Luis Angel   | u20241f315   |
+| Barrera Gutierrez, Job Issai     | u202314473   |
+| Casos Torre, Miguel Andre        | u202124030   |
+| Chipana Huarancca, Emanuel Wilfredo | u202214074 |
+| Diaz Luque, Rosa Esther          | u20241d443   |
+| Quiñones Carhuaz, Liam Yostin   | u202427265   |
+
+**Startup:** Nexo Research Lab  
+**Curso:** IHC y Tecnologías Móviles (1ASI0385)  
+**Docente:** Acosta Ticse, Deisy Lizbeth  
+**Periodo:** 202610
+
+---
+
 ## 👥 Asignación de páginas
 
 | Pantalla              | Archivo HTML                | Responsable                     |
