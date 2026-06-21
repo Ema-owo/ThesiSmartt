@@ -1,5 +1,3 @@
-# 📚 Proyecto Tesis — Estructura Base
-
 # ThesiSmart
 
 ---
@@ -24,18 +22,6 @@
 ---
 
 Aplicación web diseñada para acompañar a estudiantes universitarios en todo el proceso de elaboración de su tesis cuantitativa. Mediante plantillas con formatos oficiales, orientación metodológica contextualizada y herramientas de apoyo estadístico, ThesiSmart reduce errores frecuentes, tiempos de entrega y niveles de estrés durante el desarrollo de la investigación.
-
----
-
-## 👥 Asignación de páginas
-
-| Pantalla              | Archivo HTML                | Responsable                     |
-|-----------------------|-----------------------------|----------------------------------|
-| Landing Page          | `index.html`                | Ruth Nayeli Antón Tasayco        |
-| Dashboard Estudiante  | `dashboard-estudiante.html` | Rosa Esther Diaz Luque           |
-| Gestionar Tesis       | `gestionar-tesis.html`      | Liam Yostin Quiñones Carhuaz     |
-| Dashboard Asesor      | `dashboard-asesor.html`     | Luis Angel Bardales Fernandez    |
-| Autenticación / Login | `auth.html`                 | Miguel Andre Casos Torre         |
 
 ---
 
