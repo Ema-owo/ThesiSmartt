@@ -2,11 +2,9 @@
 
 # ThesiSmart
 
-Aplicación web diseñada para acompañar a estudiantes universitarios en todo el proceso de elaboración de su tesis cuantitativa. Mediante plantillas con formatos oficiales, orientación metodológica contextualizada y herramientas de apoyo estadístico, ThesiSmart reduce errores frecuentes, tiempos de entrega y niveles de estrés durante el desarrollo de la investigación.
-
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 | Apellidos y nombres              | Código       |
 |----------------------------------|--------------|
@@ -25,6 +23,10 @@ Aplicación web diseñada para acompañar a estudiantes universitarios en todo e
 
 ---
 
+Aplicación web diseñada para acompañar a estudiantes universitarios en todo el proceso de elaboración de su tesis cuantitativa. Mediante plantillas con formatos oficiales, orientación metodológica contextualizada y herramientas de apoyo estadístico, ThesiSmart reduce errores frecuentes, tiempos de entrega y niveles de estrés durante el desarrollo de la investigación.
+
+---
+
 ## 👥 Asignación de páginas
 
 | Pantalla              | Archivo HTML                | Responsable                     |
@@ -37,58 +39,22 @@ Aplicación web diseñada para acompañar a estudiantes universitarios en todo e
 
 ---
 
-## 📁 Estructura de carpetas
+##  Segmentos objetivo
 
-```
-/proyecto-tesis
-├── /images
-│   ├── /landing
-│   ├── /dashboard-estudiante
-│   ├── /gestionar-tesis
-│   ├── /dashboard-asesor
-│   └── /auth
-├── /styles
-│   ├── global.css              ← NADIE edita solo
-│   ├── landing.css
-│   ├── dashboard-estudiante.css
-│   ├── gestionar-tesis.css
-│   ├── dashboard-asesor.css
-│   └── auth.css
-├── /scripts
-│   ├── global.js               ← NADIE edita solo
-│   ├── landing.js
-│   ├── dashboard-estudiante.js
-│   ├── gestionar-tesis.js
-│   ├── dashboard-asesor.js
-│   └── auth.js
-├── index.html
-├── dashboard-estudiante.html
-├── gestionar-tesis.html
-├── dashboard-asesor.html
-└── auth.html
-```
+**Segmento 1 — Estudiantes universitarios de pregrado**  
+Estudiantes en etapa inicial del desarrollo de su tesis con enfoque cuantitativo. Requieren apoyo en el planteamiento metodológico, selección de variables y estructuración del diseño de investigación.
+
+**Segmento 2 — Asesores universitarios de pregrado**  
+Docentes que supervisan tesis en carreras de ingeniería y ciencias sociales con enfoque cuantitativo. Buscan optimizar el tiempo dedicado a consultas recurrentes sin reemplazar la interacción directa con el estudiante.
 
 ---
+## ✨ Principales características
 
-## 🎨 Colores del proyecto (`global.css`)
-
-| Variable           | Hex       |
-|--------------------|-----------|
-| `--violeta`        | `#4F39F6` |
-| `--verde`          | `#00A63E` |
-| `--negro`          | `#101828` |
-| `--morado`         | `#9810FA` |
-| `--gris`           | `#989696` |
-| `--verde-claro`    | `#DBFCE7` |
-| `--naranja`        | `#E17100` |
-| `--amarillo-claro` | `#FEF3C6` |
+- **Validación con IA:** Detecta inconsistencias entre problema, objetivos e hipótesis automáticamente mientras el usuario escribe.
+- **Flujo guiado paso a paso:** Wizard que acompaña desde la idea inicial hasta las conclusiones finales.
+- **Análisis estadístico:** Sugiere pruebas estadísticas apropiadas según el diseño metodológico y tipo de variables.
+- **Seguimiento de progreso:** Visualización del avance en tiempo real con recordatorios.
+- **Colaboración con asesor:** El asesor puede revisar avances, dejar comentarios y aprobar secciones directamente en la plataforma.
+- **Plantillas académicas:** Formatos pre-configurados según normas APA, Vancouver o el estilo de la universidad.
 
 ---
-
-## 📋 Reglas de oro
-
-1. **`global.css` y `global.js` son intocables** sin avisar al equipo.
-2. Cada dev trabaja **solo en sus archivos** (html, css, js e images).
-3. **No hay prefijos CSS** — cada archivo ya está aislado por nombre.
-4. **IDs solo para JS**, nunca para estilos.
-5. **PR a `main` al final** — 0 conflictos garantizados.
