@@ -34,7 +34,7 @@ Estudiantes en etapa inicial del desarrollo de su tesis con enfoque cuantitativo
 Docentes que supervisan tesis en carreras de ingeniería y ciencias sociales con enfoque cuantitativo. Buscan optimizar el tiempo dedicado a consultas recurrentes sin reemplazar la interacción directa con el estudiante.
 
 ---
-## ✨ Principales características
+##  Principales características
 
 - **Validación con IA:** Detecta inconsistencias entre problema, objetivos e hipótesis automáticamente mientras el usuario escribe.
 - **Flujo guiado paso a paso:** Wizard que acompaña desde la idea inicial hasta las conclusiones finales.
